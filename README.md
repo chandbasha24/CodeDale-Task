@@ -6,8 +6,8 @@ I recreated the first screen of Relume's website in my own style.
 https://relume.io
 
 ## Tech Stack
-ReactJS
-TailwindCSS
-Framer Motion
+ReactJS, 
+TailwindCSS,
+Framer Motion.
 
 
